@@ -1,3 +1,5 @@
+# My boiler plate for react redux extensions. 
+
 # redux-webext
 
 [![Build Status](https://travis-ci.org/ivantsov/redux-webext.svg?branch=master)](https://travis-ci.org/ivantsov/redux-webext)
